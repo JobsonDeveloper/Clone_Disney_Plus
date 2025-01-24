@@ -124,6 +124,7 @@ body {
     padding: 8px 14px;
     letter-spacing: 1px;
     border: 1px solid variaveis.$corFundoBotaoPrimario;
+    cursor: pointer;
 
     &:hover {
         background-color: lighten(variaveis.$corFundoBotaoPrimario, 3%);

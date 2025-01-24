@@ -14,6 +14,11 @@
             display: block;
         }
 
+        @media (max-width: 992px) {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
         .button {
             margin-top: 24px;
         }
@@ -32,7 +37,12 @@
 
             img {
                 height: 83px;
+
+                @media (max-width: 768px) {
+                    width: 100%;
+                }
             }
+
 
             strong {
                 display: block;
