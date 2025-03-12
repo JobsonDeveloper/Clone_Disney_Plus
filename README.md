@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://clone-disney-plus-gold.vercel.app/)
 
 ### Ferramentas utiliizadas:
